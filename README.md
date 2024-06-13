@@ -1,4 +1,9 @@
 <div align="center">
+<p float="left">
+  <img src="https://github.com/jung-eugene/apple-website/assets/114817519/aee0c8a8-fb1a-4d31-b0ed-326b73271671" height="200" />
+  <img src="https://github.com/jung-eugene/apple-website/assets/114817519/7e53b607-160c-4a8a-b4bd-d072d0ed467e" height="200" /> 
+</p>
+
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
