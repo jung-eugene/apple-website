@@ -8,9 +8,14 @@ const Footer = () => {
         <div>
           <p className="text-gray text-xs">
             More ways to shop:{" "}
-            <span className="underline text-blue">Find an Apple Store</span> or{" "}
-            <span className="underline text-blue">other retailer</span> near
-            you. Or call 1-800-MY-APPLE.
+            <span className="underline text-blue cursor-pointer">
+              Find an Apple Store
+            </span>{" "}
+            or{" "}
+            <span className="underline text-blue cursor-pointer">
+              other retailer
+            </span>{" "}
+            near you. Or call 1-800-MY-APPLE.
           </p>
         </div>
 
