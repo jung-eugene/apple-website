@@ -44,8 +44,8 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 **Cloning the repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git clone https://github.com/jung-eugene/apple-website.git
+cd apple-website
 ```
 
 **Installation**
