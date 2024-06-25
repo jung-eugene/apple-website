@@ -41,23 +41,13 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 
 ### <a name="quick-start">🏁 Quick Start</a>
 
-**Cloning the repository**
-
 ```bash
-git clone https://github.com/jung-eugene/apple-website.git
-cd apple-website
+# clone project
+$ git clone https://github.com/jung-eugene/apple-website
+
+# install dependencies
+$ npm install
+
+# serve with host at localhost:3000
+$ npm run dev
 ```
-
-**Installation**
-
-```bash
-npm install
-```
-
-**Running the app**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
